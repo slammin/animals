@@ -5,3 +5,5 @@ rocket
 chicken1
 dog1
 cat1
+elephant1
+tiger1
