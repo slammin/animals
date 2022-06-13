@@ -3,3 +3,5 @@ blue
 scout
 rocket
 chicken1
+dog1
+cat1
